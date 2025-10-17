@@ -1,3 +1,7 @@
+main branch 
+<h1>The team landing page </h1>
+<!--each members section must be put here-->
+
 Amos-2420961
 <section id="amos-123456">
   <h2>Amos kabashi (ID: 2420961)</h2>
