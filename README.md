@@ -1,2 +1,6 @@
-# ForwardTech
-Organizational repository 
+<section id="amos-123456">
+  <h2>Amos kabashi (ID: 2420961)</h2>
+  <p>Role: Frontend Developer</p>
+  <p>Bio: I’m a software engineering student interested in building smart web apps.</p>
+  <a href="https://github.com/amos123">GitHub Profile</a>
+</section>
