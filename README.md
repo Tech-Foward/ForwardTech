@@ -9,3 +9,16 @@ Amos-2420961
   <p>Bio: I’m a software engineering student interested in building smart web apps.</p>
   <a  href="https://github.com/amoskabashi">GitHub Profile</a>
 </section>
+
+<!--Lusayo-2301154-->
+<section class="lusayo-2301154">
+   <h2>Lusayo Mbale (ID: 240115).      </h2>
+   <p>Role: backend Deveveloper</p>
+   <p>Bio: I am a sofware engineer/interprenure who is open minded and loves to explore the extents at which we can expand our creativity in projects.<\p>
+   <a
+href="https://github.com/totally585">GitHub Profile<\a>
+
+  
+</section>
+
+
