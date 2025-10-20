@@ -1,3 +1,13 @@
+Blessings_2421035
+Blessings- 2421035
+<section id="Blessings- 2421035">
+  <h2>Blessings (ID: 2421035)</h2>
+  <p>Role: Full-stack Developer</p>
+  <p>Bio: Aspiring software engineer currently pursuing a Bachelors in Software engineering.  
+  <a  href="https://github.com/kubah67">GitHub Profile</a></p>
+</section>
+
+
 main branch 
 <h1>The team landing page </h1>
 <!--each members section must be put here-->
@@ -22,3 +32,4 @@ href="https://github.com/totally585">GitHub Profile<\a>
 </section>
 
 
+main
