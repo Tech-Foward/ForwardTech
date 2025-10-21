@@ -1,13 +1,3 @@
- Blessings_2421035
-Blessings_2421035
-<section id="Blessings- 2421035">
-  <h2>Blessings (ID: 2421035)</h2>
-  <p>Role: Full-stack Developer</p>
-  <p>Bio: Aspiring software engineer currently pursuing a Bachelors in Software engineering.  
-  <a  href="https://github.com/kubah67">GitHub Profile</a></p>
-</section>
-
-
 
 main branch 
 <h1>The team landing page </h1>
@@ -27,9 +17,16 @@ Amos-2420961
    <p>Role: backend Deveveloper</p>
    <p>Bio: I am a sofware engineer/interprenure who is open minded and loves to explore the extents at which we can expand our creativity in projects.<\p>
    <a
-href="https://github.com/totally585">GitHub Profile<\a>
+href="https://github.com/totally585">GitHub Profile<\a> 
+</section>
 
-  
+<!--Blessings 2421035-->
+Blessings_2421035
+<section id="Blessings- 2421035">
+  <h2>Blessings (ID: 2421035)</h2>
+  <p>Role: Full-stack Developer</p>
+  <p>Bio: Aspiring software engineer currently pursuing a Bachelors in Software engineering.  
+  <a  href="https://github.com/kubah67">GitHub Profile</a></p>
 </section>
 
 
