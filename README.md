@@ -29,7 +29,16 @@ Blessings_2421035
   <h2>Blessings (ID: 2421035)</h2>
   <p>Role: Full-stack Developer</p>
   <p>Bio: Aspiring software engineer currently pursuing a Bachelors in Software engineering.  
-  <a  href="https://github.com/kubah67">GitHub Profile</a></p>
+  <a  href="https://github.com/kubah67">GitHub Profile</a>
+</section>
+
+<!--Madalitso 2420992-->
+Madalitso 2420992
+<section id="Madalitso-2420992">
+  <h2>Madalitso (ID: 2420992)</h2>
+  <p>Role: Full stack Developer</p>
+  <p>Bio: I'm a software engineering students and an aspiring web and game developmenter.<\p>  
+  <a  href="https://github.com/Madalitso SB">GitHub Profile</a>
 </section>
 
 
