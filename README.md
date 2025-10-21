@@ -40,6 +40,11 @@ Madalitso 2420992
   <p>Bio: I'm a software engineering students and an aspiring web and game developmenter.<\p>  
   <a  href="https://github.com/Madalitso SB">GitHub Profile</a>
 </section>
-
-
+   <!--Shepherd 2300898-->
+Shepherd- 2300898
+<section id="Shepherd- 2300898">
+  <h2>Shepherd (ID: 2300898)</h2>
+  <p>Role: Full-stack Developer</p>
+  <p>Bio: Aspiring software engineer pursuing a Bachelors in Software engineering.  
+  <a  href="https://github.com/shepherd_thre_developer">GitHub Profile</a></p>
 
