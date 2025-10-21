@@ -46,6 +46,7 @@ Shepherd- 2300898
 <section id="Shepherd- 2300898">
   <h2>Shepherd (ID: 2300898)</h2>
   <p>Role: Full-stack Developer</p>
-  <p>Bio: Aspiring software engineer pursuing a Bachelors in Software engineering.<\p>
+  <p>Bio: Aspiring software engineer pursuing a Bachelors in Software engineering.</p>
   <a  href="https://github.com/shepherd_thre_developer">GitHub Profile</a>
+</section>
 
