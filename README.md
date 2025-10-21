@@ -5,6 +5,7 @@ main branch
 <h1>The team landing page </h1>
 <!--each members section must be put here-->
 
+<!--Amos kabashi(ID: 2420961) The team manager/leader-->
 Amos-2420961
 <section id="amos-2420961">
   <h2>Amos kabashi (ID: 2420961)</h2>
