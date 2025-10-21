@@ -6,7 +6,7 @@ main branch
 <!--each members section must be put here-->
 
 <!--Amos kabashi(ID: 2420961) The team manager/leader-->
-Amos-2420961
+(the team manager)Amos-2420961
 <section id="amos-2420961">
   <h2>Amos kabashi (ID: 2420961)</h2>
   <p>Role: Frontend Developer</p>
@@ -28,7 +28,7 @@ Blessings_2421035
 <section id="Blessings- 2421035">
   <h2>Blessings (ID: 2421035)</h2>
   <p>Role: Full-stack Developer</p>
-  <p>Bio: Aspiring software engineer currently pursuing a Bachelors in Software engineering.  
+  <p>Bio: Aspiring software engineer currently pursuing a Bachelors in Software engineering.<\p>  
   <a  href="https://github.com/kubah67">GitHub Profile</a>
 </section>
 
@@ -40,11 +40,12 @@ Madalitso 2420992
   <p>Bio: I'm a software engineering students and an aspiring web and game developmenter.<\p>  
   <a  href="https://github.com/Madalitso SB">GitHub Profile</a>
 </section>
+   
    <!--Shepherd 2300898-->
 Shepherd- 2300898
 <section id="Shepherd- 2300898">
   <h2>Shepherd (ID: 2300898)</h2>
   <p>Role: Full-stack Developer</p>
-  <p>Bio: Aspiring software engineer pursuing a Bachelors in Software engineering.  
-  <a  href="https://github.com/shepherd_thre_developer">GitHub Profile</a></p>
+  <p>Bio: Aspiring software engineer pursuing a Bachelors in Software engineering.<\p>
+  <a  href="https://github.com/shepherd_thre_developer">GitHub Profile</a>
 
