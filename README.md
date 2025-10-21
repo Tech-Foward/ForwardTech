@@ -1,4 +1,6 @@
 
+ 
+main
 main branch 
 <h1>The team landing page </h1>
 <!--each members section must be put here-->
