@@ -32,14 +32,14 @@ Blessings_2421035
   <a  href="https://github.com/kubah67">GitHub Profile</a>
 </section>
 
-<!--Madalitso 2420992-->
-Madalitso 2420992
-<section id="Madalitso-2420992">
-  <h2>Madalitso (ID: 2420992)</h2>
-  <p>Role: Full stack Developer</p>
-  <p>Bio: I'm a software engineering students and an aspiring web and game developmenter.<\p>  
-  <a  href="https://github.com/Madalitso SB">GitHub Profile</a>
-</section>
+<!--Madalitso-->
+‎  <section id="Madalitso-2420992">
+‎    <h2>Madalitso (ID: 2420992)</h2>
+‎    <p>Role: Full-stack Developer</p>
+‎    <p>Bio: I'm a software engineering student and an aspiring web and game developer.</p>
+‎    <a href="https://github.com/MadalitsoSB" target="_blank">GitHub Profile</a>
+‎  </section>
+‎
 
 
 
